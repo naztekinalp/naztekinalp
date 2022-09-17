@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://github.com/naztekinalp/naztekinalp/blob/main/dancing-unicorn-unicorn.gif)
+![](https://github.com/naztekinalp/naztekinalp/blob/main/unicorn-rainbow.gif)
 
 
 ### 🔭 I’m currently working on EPAM Systems
