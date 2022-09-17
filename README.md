@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/naztekinalp/naztekinalp/blob/main/dancing-unicorn-unicorn.gif))
-
-
+![](https://github.com/naztekinalp/naztekinalp/blob/main/dancing-unicorn-unicorn.gif)
 
 
 ### 🔭 I’m currently working on EPAM Systems
