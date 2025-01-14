@@ -6,7 +6,7 @@
 ### 💅 I’m currently working at EPAM Systems as Senior Software QA Engineer.
 ### 🔭 I’m currently studying Master's in Engineering Management.
 ### 🌱 I’m currently learning AI.
-### 💬 Ask me about software testing.
+### 💬 Ask me about software testing and Scrum.
 ### 📫 How to reach me: https://www.linkedin.com/in/naztekinalp/
 ### 🦄 Fun fact: I believe in unicorns.
 
