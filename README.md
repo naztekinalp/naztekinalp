@@ -8,7 +8,7 @@
 ### 🌱 I’m currently learning AI.
 ### 💬 Ask me about software testing and Scrum.
 ### 📫 How to reach me: https://www.linkedin.com/in/naztekinalp/
+### 📝 Read my articles: medium.com/@naztekinalp
 ### 🦄 Fun fact: I believe in unicorns.
-
 
 
